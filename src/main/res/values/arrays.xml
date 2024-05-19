@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="foods">
+        <item>pizza</item>
+        <item>burger</item>
+        <item>doner</item>
+        <item>lahmacun</item>
+    </array>
+
+</resources>

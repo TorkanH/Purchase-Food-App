@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SeyyedehtorkanHesari_HW1</string>
+    <string name="tvTitle">FoodOrder</string>
+    <string name="secondButton">Purchase Food</string>
+    <string name="imgInfo">ready to eat</string>
+    <string name="newstr">Kitchen approved by health department and only oragnic products are used</string>
+</resources>
